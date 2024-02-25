@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(237, 213, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 500;
+    color:rgb(200, 0, 255)
+}
+ul li{
+    font-size: 20px;
+}
